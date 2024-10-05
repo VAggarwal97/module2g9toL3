@@ -1,1 +1,0 @@
-  // System.out.println("Added a red ball. Total red balls: " + redBalls);
