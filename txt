@@ -1,0 +1,14 @@
+Intermediate
+1) Given arrays for N (>= 2) users, each representing the IDs of hotels visited, find the common IDs of the hotels visited amongst the users.
+userA={2,3,1)
+userB = (2, 5, 3)
+Q/P: (2,3)
+Assumptions: Arrays are unsorted.
+Cases: i) Each array consists of distinct hotel IDs
+il) Each array may contain duplicate hotel IDs
+2) Program to Check String is Anagram or not
+Desc: Take two string and check whether anagram or not
+IVP: String("heart") and String("earth");
+Q/P: String is Anagram
+Advance
+1) Write a program to find the last node in a circular linked list and break it.
